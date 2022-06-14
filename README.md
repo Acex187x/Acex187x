@@ -7,4 +7,7 @@
  - Firebase (Firestore, Hosting, Analytics, Authentication, Functions)
  - Python
  - Telegram Bot Development (Python/Node.js)
- - PHP, Wordpress, MySQL (There is a development experience, but now I hate with all my heart)
+ - Wordpress
+ - SQL Databases
+ - MongoDB
+ - Express.js
