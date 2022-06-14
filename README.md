@@ -11,3 +11,4 @@
  - SQL Databases
  - MongoDB
  - Express.js
+ - Deploying with Docker
